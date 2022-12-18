@@ -1,6 +1,6 @@
 <h1>E-Commerce Web App</h1>
 
-The challenge of this was to build an e-commerce web application without any external UI libraries, including, but not limited to, Material UI, Bootstrap to style your project.✋ 
+The challenge of this project was to build an e-commerce web application without any external UI libraries, including, but not limited to, Material UI, Bootstrap to style your project.✋ 
 
 <p><strong>Tools used:</strong>JavaScript, MongoDB, React, Express, Node.js, Postman, Styled-Components</p>
 
